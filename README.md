@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @KacperFilas
-- 👀 I’m interested in 3d Graphics, and programming
-- 🌱 I’m currently learning Computer Science, and japanese :P
-- 💞️ I’m looking to collaborate on anything really
+- 👋 Hi, I’m @KacperFilas a 3D generalist currently working as level designer
 - 📫 How to reach me - kacperfilas1@gmail.com
 
 <!---
